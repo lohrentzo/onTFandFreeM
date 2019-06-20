@@ -1,0 +1,47 @@
+<classpath>
+  <classpathentry kind="src" path="src/main/scala"/>
+  <classpathentry kind="src" path="src/test/scala"/>
+  <classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"></classpathentry>
+  <classpathentry sourcepath="/Users/lorenzo/.ivy2/cache/org.typelevel/cats-core_2.11/srcs/cats-core_2.11-1.6.1-sources.jar" kind="lib" path="/Users/lorenzo/.ivy2/cache/org.typelevel/cats-core_2.11/jars/cats-core_2.11-1.6.1.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/lorenzo/.ivy2/cache/org.typelevel/cats-core_2.11/docs/cats-core_2.11-1.6.1-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/lorenzo/.ivy2/cache/org.typelevel/cats-macros_2.11/srcs/cats-macros_2.11-1.6.1-sources.jar" kind="lib" path="/Users/lorenzo/.ivy2/cache/org.typelevel/cats-macros_2.11/jars/cats-macros_2.11-1.6.1.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/lorenzo/.ivy2/cache/org.typelevel/cats-macros_2.11/docs/cats-macros_2.11-1.6.1-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/lorenzo/.ivy2/cache/org.typelevel/machinist_2.11/srcs/machinist_2.11-0.6.6-sources.jar" kind="lib" path="/Users/lorenzo/.ivy2/cache/org.typelevel/machinist_2.11/jars/machinist_2.11-0.6.6.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/lorenzo/.ivy2/cache/org.typelevel/machinist_2.11/docs/machinist_2.11-0.6.6-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/lorenzo/.ivy2/cache/org.typelevel/cats-kernel_2.11/srcs/cats-kernel_2.11-1.6.1-sources.jar" kind="lib" path="/Users/lorenzo/.ivy2/cache/org.typelevel/cats-kernel_2.11/jars/cats-kernel_2.11-1.6.1.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/lorenzo/.ivy2/cache/org.typelevel/cats-kernel_2.11/docs/cats-kernel_2.11-1.6.1-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/lorenzo/.ivy2/cache/org.typelevel/cats-free_2.11/srcs/cats-free_2.11-1.6.1-sources.jar" kind="lib" path="/Users/lorenzo/.ivy2/cache/org.typelevel/cats-free_2.11/jars/cats-free_2.11-1.6.1.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/lorenzo/.ivy2/cache/org.typelevel/cats-free_2.11/docs/cats-free_2.11-1.6.1-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/lorenzo/.ivy2/cache/org.scalatest/scalatest_2.11/srcs/scalatest_2.11-3.0.8-sources.jar" kind="lib" path="/Users/lorenzo/.ivy2/cache/org.scalatest/scalatest_2.11/bundles/scalatest_2.11-3.0.8.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/lorenzo/.ivy2/cache/org.scalatest/scalatest_2.11/docs/scalatest_2.11-3.0.8-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/lorenzo/.ivy2/cache/org.scalactic/scalactic_2.11/srcs/scalactic_2.11-3.0.8-sources.jar" kind="lib" path="/Users/lorenzo/.ivy2/cache/org.scalactic/scalactic_2.11/bundles/scalactic_2.11-3.0.8.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/lorenzo/.ivy2/cache/org.scalactic/scalactic_2.11/docs/scalactic_2.11-3.0.8-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/lorenzo/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/srcs/scala-xml_2.11-1.2.0-sources.jar" kind="lib" path="/Users/lorenzo/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.2.0.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/lorenzo/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/docs/scala-xml_2.11-1.2.0-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="output" path="bin"/>
+</classpath>
